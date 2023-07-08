@@ -1,0 +1,18 @@
+Java Problems
+File: problem.txt
+Author: Chen Lin
+
+For each of the numbered problems:
+- State whether the problem occurs at compile-time or run-time
+- Briefly describe what the problem is in plain English
+
+1. Division by Zero (Run time)
+2. A type cannot convert to another type like boolean cannot convert to int (Compile time)
+3. Missing bracket or brackets at the end of the code (Compile time)
+4. Null pointer exception (Run time)
+5. Compile time: variable may not be initialized (Compile time)
+6. Open a file that is not there (Run time)
+7. Misspelling a word (Compile time)
+8. Missing semicolon (Compile time)
+9. Possible lossy conversion from a type of data to another type of data (Compile time)
+10. Missing parenthesis after if, for, or while statements (Compile time)
