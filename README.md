@@ -1,3 +1,3 @@
 # CS-142 Class
 
-Java classworks and projects are here
+Classworks and projects written in Java are here
